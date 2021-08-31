@@ -1,0 +1,91 @@
+table img{
+    width: 100px;
+    height: 100px;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+  table{
+      width: 500px;     
+  }
+
+  header img{
+      width: 100px;
+      height: 100px;
+      margin-left: 50px;
+  }
+  header{
+      background-color: rgb(90, 90, 90);
+      width: 100%;
+
+  }
+  header h1 {
+      margin-left: 650px;
+      margin-top: -65px;
+      
+  }
+  h1{
+      font-size: 60px;
+      color: red;
+      font-family: 'Fredoka One', cursive;
+      
+  }
+  footer{
+    background-color: rgb(90, 90, 90);
+    width: 100%;
+  }
+  footer p{
+      color: red;
+      margin-left: 700px;
+      font-size: medium;
+      font-family: 'Fredoka One', cursive;
+      
+  }
+  #container{
+    padding-left: 100px;
+    position: relative;
+    top: -20px;
+  }
+  table th{
+      padding-left: 50px;
+      width: 250px;
+  }
+#result{
+    display: flex;
+    margin: 200px;
+}
+  input[type=text], select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit] {
+    width: 50%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  body{  
+  background-image: url('https://westeurope1-mediap.svc.ms/transform/thumbnail?provider=spo&inputFormat=jpg&cs=fFNQTw&docid=https%3A%2F%2Falqudscollege-my.sharepoint.com%3A443%2F_api%2Fv2.0%2Fdrives%2Fb!4kW0Mz1ymE6DvXc0RHm89r7i7SSJUsJOkA-56aojf1AKR62oXKimQaAG9ivOPT6d%2Fitems%2F01W4C7VWFZ3L3GN7LK35D3MWW4ZUBHAQ5H%3Fversion%3DPublished&access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvYWxxdWRzY29sbGVnZS1teS5zaGFyZXBvaW50LmNvbUBhMTYyYzUzMi03YTBjLTQ2NDUtOTZmZC0yMGQwMTljZjRlNWEiLCJpc3MiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAiLCJuYmYiOiIxNjMwMzg5NjAwIiwiZXhwIjoiMTYzMDQxMTIwMCIsImVuZHBvaW50dXJsIjoiQi9xc0M5cVUzVjZORCtLVm4zdTFETkhwbXo0ZFQrakI4cVl0eDJjUE1mWT0iLCJlbmRwb2ludHVybExlbmd0aCI6IjEyMyIsImlzbG9vcGJhY2siOiJUcnVlIiwidmVyIjoiaGFzaGVkcHJvb2Z0b2tlbiIsInNpdGVpZCI6Ik16TmlORFExWlRJdE56SXpaQzAwWlRrNExUZ3pZbVF0Tnpjek5EUTBOemxpWTJZMiIsIm5hbWVpZCI6IjAjLmZ8bWVtYmVyc2hpcHx1cm4lM2FzcG8lM2Fhbm9uIzlkNTJjMzIzYTJiNTIwMzRkMTUyMzA0YmJjMDFlNTdkMjI4NTI4YjFjMDI5Yzk4NzM4MWJkM2MwNDRmNDQxZDciLCJuaWkiOiJtaWNyb3NvZnQuc2hhcmVwb2ludCIsImlzdXNlciI6InRydWUiLCJjYWNoZWtleSI6IjBoLmZ8bWVtYmVyc2hpcHx1cm4lM2FzcG8lM2Fhbm9uIzlkNTJjMzIzYTJiNTIwMzRkMTUyMzA0YmJjMDFlNTdkMjI4NTI4YjFjMDI5Yzk4NzM4MWJkM2MwNDRmNDQxZDciLCJzaGFyaW5naWQiOiJOUFdvMXpwVVlFK21UazlKOXduNFZ3IiwidHQiOiIwIiwidXNlUGVyc2lzdGVudENvb2tpZSI6IjIifQ.TmhmelVadjh1SnBOclZINGNTVHZQdnBKN2xJUEExV0pDOHViMzhyWkVPST0&cTag=%22c%3A%7B66F6DAB9-6AFD-47DF-B65A-DCCD027043A7%7D%2C3%22&encodeFailures=1&width=847&height=417&srcWidth=847&srcHeight=417');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
